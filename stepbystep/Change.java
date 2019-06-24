@@ -7,7 +7,6 @@ public class Change {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
-		int money = 1000;
 		int a = sc.nextInt();
 		int b = 0;
 		int c = 0;
@@ -35,5 +34,16 @@ public class Change {
 		System.out.printf("%d, %d, %d", b, c, d);
 		
 	}
-
+// PLAN B
+//	 int price=0; 
+//     int x,y,z=0; 
+//     Scanner input=new Scanner(System.in); 
+//     System.out.print("물건의 값을 입력하세요:"); 
+//     price=input.nextInt(); 
+//      
+//     System.out.println("1000원을 지불하였습니다."); 
+//     x=(1000-price)/100; 
+//     y=(1000-price-100*x)/50; 
+//     z=(1000-price-100*x-50*y)/10; 
+//     System.out.print("거스름돈은 100원짜리"+x+"개, 50원짜리"+y+"개, 10원짜리"+z+"개 입니다."); 
 }
