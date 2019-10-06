@@ -1,2 +1,2 @@
-# algorithm
-## Step By Step
+# For me
+https://velog.io/@jakeseo_me/Algorithm-Study-With-Java-1
