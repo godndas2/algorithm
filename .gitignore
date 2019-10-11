@@ -15,8 +15,6 @@ target/
 *.iml
 
 /src/baekjoon/StrawberryWorm.java
-/src/programmers/Scale.java
-/src/programmers/DoubleQueue.java
 /src/stepbystep/Change.java
 /src/stepbystep/KoiWatch.java
 /src/stepbystep/Fuse.java
