@@ -14,23 +14,5 @@ target/
 
 *.iml
 
-!/src/baekjoon/StrawberryWorm.java
-/src/programmers/Scale.java
-/src/programmers/DoubleQueue.java
-/src/stepbystep/Change.java
-/src/stepbystep/KoiWatch.java
-/src/stepbystep/Fuse.java
-/src/stepbystep/Business.java
-/src/stepbystep/Swap.java
-/src/stepbystep/Average.java
-/src/stepbystep/Q_R.java
-/src/stepbystep/M2S.java
-/src/stepbystep/Sec.java
-/src/stepbystep/Op.java
-/src/stepbystep/Three.java
-/src/stepbystep/CtoF.java
-/src/stepbystep/Triangle.java
-/src/stepbystep/Area.java
-/src/thirtyBythirty/Area.java
 /src/EX3_3.java
-/src/baekjoon/Goldbach.java
+
