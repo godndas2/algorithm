@@ -4,7 +4,8 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Scanner;
 
-public class AscSort {
+// https://www.acmicpc.net/problem/2750
+public class ArrayListSort {
     public static void main(String[] args) {
 
     Scanner sc = new Scanner(System.in);
