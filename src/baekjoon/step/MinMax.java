@@ -1,4 +1,4 @@
-package baekjoon;
+package baekjoon.step;
 
 import java.io.*;
 import java.util.StringTokenizer;
