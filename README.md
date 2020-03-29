@@ -8,5 +8,6 @@ https://qkqhxla1.tistory.com/category/algorithm/theory  (이론)
 https://qkqhxla1.tistory.com/category/algorithm/solving%20problem  (문제)  
 https://visualgo.net/ko  
 https://www.acmicpc.net/problemset A형 알고리즘  
-https://app.codility.com/programmers/
-
+https://app.codility.com/programmers/  
+- sorting  
+- dp, dfs
