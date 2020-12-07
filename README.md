@@ -14,3 +14,6 @@ https://programmers.co.kr/learn/courses/18
   
 ## 2020-12-04
 https://programmers.co.kr/learn/courses/30/lessons/42748
+## 2020-12-07
+https://programmers.co.kr/learn/courses/30/lessons/59046
+
