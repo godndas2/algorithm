@@ -12,13 +12,10 @@ https://app.codility.com/programmers/
 https://programmers.co.kr/learn/courses/18  
   
   
-## 2020-12-04
+## 2020-12
 https://programmers.co.kr/learn/courses/30/lessons/42748
-## 2020-12-07
 https://programmers.co.kr/learn/courses/30/lessons/59046
-## 2020-12-10
 https://programmers.co.kr/learn/courses/30/lessons/12915
-## 2020-12-11
 https://programmers.co.kr/learn/courses/30/lessons/12925
 
 
